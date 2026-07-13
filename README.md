@@ -11,6 +11,3 @@ Hello, I am Kamlesh, a BCA student and aspiring AI & Web Developer.
 
 ## Projects
 - Personal Portfolio Website
-
-## Contact
-GitHub: Your Profile Link
